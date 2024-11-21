@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1059870775160",
+    "project_id": "wikato-3ce27",
+    "storage_bucket": "wikato-3ce27.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059870775160:android:d0a2ecca6ca8fc848a9a8d",
+        "android_client_info": {
+          "package_name": "com.example.wikato"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxYZVRphvOnLmjbYY1CgHFHJoLLQOwO_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
